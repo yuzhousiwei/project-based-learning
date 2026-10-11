@@ -209,6 +209,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
 - [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
 
+- [How to make a Minecraft mod with AI — Universal Modder & NeoForge 1.21.1](https://universalmodder.dev/guides/minecraft-first-mod/)
+
 ## JavaScript:
 
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
